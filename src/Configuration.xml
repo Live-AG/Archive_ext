@@ -67,6 +67,7 @@
 		<ChildObjects>
 			<Language>Русский</Language>
 			<Subsystem>ГПС_АрхивГазпромСеры</Subsystem>
+			<CommonPicture>ГПС_Архив</CommonPicture>
 			<Role>ГПС_ОсновнаяРоль</Role>
 			<DefinedType>ГПС_ВладельцыФайловАрхива</DefinedType>
 			<CommonCommand>ГПС_АрхивныеФайлы</CommonCommand>

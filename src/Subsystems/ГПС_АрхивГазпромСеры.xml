@@ -6,7 +6,7 @@
 			<Synonym>
 				<v8:item>
 					<v8:lang>ru</v8:lang>
-					<v8:content>Архив Газпром серы</v8:content>
+					<v8:content>Архив договоров ООО "Газпром сера"</v8:content>
 				</v8:item>
 			</Synonym>
 			<Comment/>
@@ -14,7 +14,7 @@
 			<IncludeInCommandInterface>true</IncludeInCommandInterface>
 			<Explanation/>
 			<Picture>
-				<xr:Ref>StdPicture.History</xr:Ref>
+				<xr:Ref>CommonPicture.ГПС_Архив</xr:Ref>
 				<xr:LoadTransparent>true</xr:LoadTransparent>
 			</Picture>
 			<Content>
