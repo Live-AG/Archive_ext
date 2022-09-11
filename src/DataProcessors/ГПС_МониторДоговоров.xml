@@ -21,15 +21,18 @@
 			</Synonym>
 			<Comment/>
 			<UseStandardCommands>true</UseStandardCommands>
-			<DefaultForm>DataProcessor.ГПС_МониторДоговоров.Form.ФормаМонитора</DefaultForm>
+			<DefaultForm>DataProcessor.ГПС_МониторДоговоров.Form.ФормаУправляемая</DefaultForm>
 			<AuxiliaryForm/>
 			<IncludeHelpInContents>false</IncludeHelpInContents>
 			<ExtendedPresentation/>
 			<Explanation/>
 		</Properties>
 		<ChildObjects>
-			<Form>ФормаМонитора</Form>
-			<Form>ФормаАрхивныхФайлов</Form>
+			<Form>ФормаУправляемая</Form>
+			<Form>ФормаВыбораПодразделений</Form>
+			<Template>СхемаКомпоновкиДанных</Template>
+			<Template>МакетКалендаря</Template>
+			<Template>МакетКалендаряНеактивный</Template>
 			<Command uuid="13d59114-1068-42f7-8619-d875059bfa5a">
 				<Properties>
 					<Name>ОткрытьФормуМонитора</Name>

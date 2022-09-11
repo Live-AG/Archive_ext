@@ -11,14 +11,21 @@
 		<Metadata name="CommonPicture.ГПС_Архив.Picture" id="466a1b40-b54b-4c4e-8729-88ba21e121b4.0" configVersion="a0b09cbde70f02aec26ba4dfa6046a007d5eb055"/>
 		<Metadata name="Configuration.АрхивГазпромСеры" id="262122b9-39ee-49d8-a1da-2cc527ad69af" configVersion="3d6ddf454440cb07bef86c4061ef57255919aafc"/>
 		<Metadata name="Constant.ГПС_ПараметрыПодключенияКАрхиву" id="98c35c0c-2d5a-4d8f-a637-aa1eceb8ce4e" configVersion="0b0944e171bdc9397c18e767a5fae0f23ce26364"/>
-		<Metadata name="DataProcessor.ГПС_МониторДоговоров" id="e3686e12-9dc3-4aea-befe-7e8bd676fcb1" configVersion="d52ec2973909207586306b7db6b4e036f9b7b39e">
+		<Metadata name="DataProcessor.ГПС_МониторДоговоров" id="e3686e12-9dc3-4aea-befe-7e8bd676fcb1" configVersion="98f1687636a0251259aaad8c48d11fc764754bb5">
 			<Metadata name="DataProcessor.ГПС_МониторДоговоров.Command.ОткрытьФормуМонитора" id="13d59114-1068-42f7-8619-d875059bfa5a"/>
 		</Metadata>
 		<Metadata name="DataProcessor.ГПС_МониторДоговоров.Command.ОткрытьФормуМонитора.CommandModule" id="13d59114-1068-42f7-8619-d875059bfa5a.2" configVersion="f704073b8e00abaa88412eb6110710e05ca3ddc1"/>
-		<Metadata name="DataProcessor.ГПС_МониторДоговоров.Form.ФормаАрхивныхФайлов" id="9cab8dc3-9db6-4335-8eac-73becef2c118" configVersion="b6b68c1c8e3ef45cca0e10dd3a7eb3e5abf3ede7"/>
-		<Metadata name="DataProcessor.ГПС_МониторДоговоров.Form.ФормаАрхивныхФайлов.Form" id="9cab8dc3-9db6-4335-8eac-73becef2c118.0" configVersion="2af1cead3c5f30824a48f69805a3077c94a9b8dd"/>
-		<Metadata name="DataProcessor.ГПС_МониторДоговоров.Form.ФормаМонитора" id="8458640f-fb76-4a19-b21e-3425b8b784bf" configVersion="fb49626f64bb869852b18470c4cfdbfc9d047148"/>
-		<Metadata name="DataProcessor.ГПС_МониторДоговоров.Form.ФормаМонитора.Form" id="8458640f-fb76-4a19-b21e-3425b8b784bf.0" configVersion="2af1cead3c5f30824a48f69805a3077c94a9b8dd"/>
+		<Metadata name="DataProcessor.ГПС_МониторДоговоров.Form.ФормаВыбораПодразделений" id="35c8bba7-be72-4801-a66d-067107d00cb1" configVersion="aeb52b09e09d4fc86092c9b8dda7539fd52a299c"/>
+		<Metadata name="DataProcessor.ГПС_МониторДоговоров.Form.ФормаВыбораПодразделений.Form" id="35c8bba7-be72-4801-a66d-067107d00cb1.0" configVersion="b1b7e76d780866b407829da5e8f4f237200a8113"/>
+		<Metadata name="DataProcessor.ГПС_МониторДоговоров.Form.ФормаУправляемая" id="142a1fce-bc47-4f81-aff4-ab7a27773cf7" configVersion="9a09be7939f709cd131bfa3bd625349b69a98663"/>
+		<Metadata name="DataProcessor.ГПС_МониторДоговоров.Form.ФормаУправляемая.Form" id="142a1fce-bc47-4f81-aff4-ab7a27773cf7.0" configVersion="9247116b2ef17b7c8b698550dc3e713fd0047a5e"/>
+		<Metadata name="DataProcessor.ГПС_МониторДоговоров.ObjectModule" id="e3686e12-9dc3-4aea-befe-7e8bd676fcb1.0" configVersion="94c945ff7dc3c9a8212ed3c1534d93ac261f8674"/>
+		<Metadata name="DataProcessor.ГПС_МониторДоговоров.Template.МакетКалендаря" id="0f44b945-ac5c-44ea-9a4f-da95c02c87c6" configVersion="04a4833f065b1c17c0fd343b1011c6e1e1d21ee1"/>
+		<Metadata name="DataProcessor.ГПС_МониторДоговоров.Template.МакетКалендаря.Template" id="0f44b945-ac5c-44ea-9a4f-da95c02c87c6.0" configVersion="9c23fa05cdcd8e24d25af26ddf86a5989a16679f"/>
+		<Metadata name="DataProcessor.ГПС_МониторДоговоров.Template.МакетКалендаряНеактивный" id="1032e85f-d0d9-48c2-8fb9-b28509805044" configVersion="4f1c2af34a3c404f655888a83a9c652ae8df6883"/>
+		<Metadata name="DataProcessor.ГПС_МониторДоговоров.Template.МакетКалендаряНеактивный.Template" id="1032e85f-d0d9-48c2-8fb9-b28509805044.0" configVersion="79c354b61badd79316c7f55778637ca6806034f8"/>
+		<Metadata name="DataProcessor.ГПС_МониторДоговоров.Template.СхемаКомпоновкиДанных" id="ce554f83-3268-4f09-93a2-79f2f7eb7c14" configVersion="8062bb692f4c53292b5b51de82f87c919a6873c3"/>
+		<Metadata name="DataProcessor.ГПС_МониторДоговоров.Template.СхемаКомпоновкиДанных.Template" id="ce554f83-3268-4f09-93a2-79f2f7eb7c14.0" configVersion="46b6a199a4848748a6a2c756cc10d110e4f59e10"/>
 		<Metadata name="DefinedType.ГПС_ВладельцыФайловАрхива" id="34f8ceab-8ba4-48bd-b0c9-648177ce9e7f" configVersion="e7fda275aa9ad4919e243666e2caa10118a234ac"/>
 		<Metadata name="Language.Русский" id="327313d6-5ddb-4028-9f8d-ea5db087490d" configVersion="17f68ec32340428097f5d87a4e39048f06b718cc"/>
 		<Metadata name="Role.ГПС_ОсновнаяРоль" id="fcec6008-112c-42c5-98cf-061c1f002ede" configVersion="6ad663c8fb2cacd6223b71c2a2472ab99d3d2e36"/>
